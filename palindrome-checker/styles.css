@@ -1,0 +1,9 @@
+.main-container {
+  max-width: 30rem;
+}
+
+.palindrome-checker {
+  .result {
+    min-height: 2rem;
+  }
+}
